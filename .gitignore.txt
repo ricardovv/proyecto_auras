@@ -1,2 +1,5 @@
 .DS_store
 c_araucana/.DS_store
+b_libroadn/.DS_store
+c_araucana/.DS_store
+d_edicion/.DS_store
