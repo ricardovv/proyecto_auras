@@ -25,3 +25,17 @@
 **D) Catálogo-Revista:** 
 - Contactar rescritores, reunir para reactivar. 
 - Re-presupuestar revista. 
+
+
+## Referencias 
+
+-Learn How to use the Bluesky Python API in Less than 4 Minutes 
+https://youtu.be/iwFacCJDfbs?si=TjoXLGwaAi2_IamY
+isntalar atporto
+en blusky app pasword
+
+https://atproto.blue/en/latest/
+This is how we can send a post with an image using low-level XRPC Client:
+
+Automate Your Way To Millions: A Guide To Turbocharging Your Content On Bluesky Social 
+https://www.youtube.com/watch?v=O1xgtYhOU0M
