@@ -39,3 +39,10 @@ This is how we can send a post with an image using low-level XRPC Client:
 
 Automate Your Way To Millions: A Guide To Turbocharging Your Content On Bluesky Social 
 https://www.youtube.com/watch?v=O1xgtYhOU0M
+
+
+
+Recomendable - "Esclavos del algoritmo: Manual de resistencia en la era de la inteligencia artificial, Laura G. de Rivera - https://www.penguinrandomhouse.com/books/799576/esclavos-del-algoritmo-manual-de-resistencia-en-la-era-de-la-inteligencia-artif-icial--slaves-of-the-algorithm-by-laura-g-de-rivera/
+
+
+8 lineas x parrago / 5 parrfos un bloque / 14 bloques
